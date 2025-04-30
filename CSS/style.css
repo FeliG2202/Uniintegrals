@@ -1,0 +1,12 @@
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
+ .colorIn {
+  background: linear-gradient(to right, #51c5e2  20%, #293587 100%);
+
+}
+.colorFIn {
+  background-color: rgba(0, 0, 0, 0.2);;
+
+}
